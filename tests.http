@@ -1,0 +1,9 @@
+PUT http://localhost:3000/alumnos
+Content-Type: application/json
+
+{
+  "nome": "NodeJS",
+  "cargaHoraria": 40,
+  "preco": 1000,
+  "categoria": "programacao"
+}
